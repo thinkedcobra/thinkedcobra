@@ -3,8 +3,6 @@
 
 ### About Me
 Hey there! I'm currently diving into the world of programming and loving every moment of it. I'm a bit of a newbie, but I'm eager to learn and grow. I've got some experience with Python, JavaScript, and C#, and I'm excited to see where this journey takes me.
-
-- 🌍 I'm based in Poland, Warsaw
 - ⚡ Fun fact I have 4 cats  
 
 ![Silly GIF](https://media.tenor.com/KA90qweWuTwAAAAM/vro-vro-cat.gif)
